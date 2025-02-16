@@ -54,6 +54,10 @@
                 </ul>
             </div>
         </section>
+    <div class="task-input-bar">
+        <input type="text" id="taskInput" placeholder="Enter a new task..." />
+        <button id="addTaskBtn">Add Task</button>
+    </div>
         <section class="filter-section">
             <h2>Filter Tasks</h2>
             <select id="taskFilter">
